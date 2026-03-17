@@ -26,7 +26,7 @@ const Footer=()=>{
             </div>
 
             <div className="footer__copyright">
-               <small>&copy; Sharkz Reigns</small>
+               <small>&copy; Stephen Gitau</small>
            </div>
         </footer>
     )
