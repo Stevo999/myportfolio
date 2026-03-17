@@ -6,7 +6,7 @@ import {FiLinkedin} from "react-icons/fi"
 const Footer=()=>{
     return(
         <footer>
-            <a href="#" className="footer__logo">SHARKZ</a>
+            <a href="#" className="footer__logo">STEPHEN GITAU</a>
 
             <ul className="permalink">
             <li><a href="#">Home</a></li>
